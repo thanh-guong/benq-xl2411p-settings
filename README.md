@@ -10,7 +10,7 @@ My monitor config
 | Blur Reduction	| Off				|
 | Color Temperature	| 88(R) 81(G) 95(B)	|
 | Hue				| 50				|
-| Color Vibrance	| 10				|
+| Color Vibrance	| 13				|
 | AMA				| High				|
 | Instant Mode		| On				|
 | Sharpness			| 5					|
