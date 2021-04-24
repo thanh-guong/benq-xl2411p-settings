@@ -1,5 +1,6 @@
 # benq-xl2411p-settings
-My monitor config
+
+My zowie BENQ XL2411P settings
 
 | Name				| Value				|
 | ----------------- | ----------------- |
