@@ -4,6 +4,7 @@ My zowie BENQ XL2411P settings
 
 | Name				| Value				|
 | ----------------- | ----------------- |
+| Picture mode		| FPS 1				|
 | Brightness		| 60				|
 | Contrast			| 50				|
 | Low Blue Light	| 0				|
